@@ -1,0 +1,15 @@
+{
+  "name": "mapty-app",
+  "version": "1.0.0",
+  "description": "Mapty Project",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Aryan Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
